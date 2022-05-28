@@ -1,3 +1,4 @@
 dogs are cool
 i'm learning git!
 cats are cool too
+i really like cats
